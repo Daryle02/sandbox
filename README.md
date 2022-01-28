@@ -22,5 +22,5 @@ create 2 features:
 
 
 ### Youtube Tutorial
-Here is a youtube tutorial and walk through and git, how to use it, and going through a sample workflow\
+Here is a youtube tutorial and walk through on git, how to use it, and going through a sample workflow.\
 Link - https://youtu.be/d-6ATlUn_zc
