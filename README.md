@@ -21,6 +21,6 @@ create 2 features:
 2. if you take some time after cloning or fetching before creating new branch, i recommend to fetch before creating new feature branch (incase theres new updates in the remote repo).
 
 
-#### Youtube Tutorial
-Here is a youtube tutorial and walk through and git, how to use it, and going through a sample workflow
+### Youtube Tutorial\
+Here is a youtube tutorial and walk through and git, how to use it, and going through a sample workflow\
 Link - https://youtu.be/d-6ATlUn_zc
